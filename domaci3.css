@@ -1,0 +1,302 @@
+*
+{box-sizing: border-box;}
+
+.topnav {
+    overflow: hidden;
+    background-color:#212529;
+    height: 70px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25px 15px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: ;
+   
+    background-color: ;
+  }
+  .logo
+  { 
+
+    float: right;
+    padding: 20px;
+  }
+  #prvi
+  { background-color: grey;
+    width: auto;
+  }
+  .vesti
+  {
+    background-color: grey;
+    float: left;
+    border: 5px solid black;
+    margin-top: 10px;
+    display: inline;
+    width: 30%;
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+  }
+  .slika6
+  {
+    display: inline;
+    width: 100%;
+
+  }
+  .card {
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 13%;
+    margin-left:10px;
+    text-align: center;
+    font-family: arial;
+    padding: 5px;
+    height: 585px;
+
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    margin-top: 66px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .slika3
+  {
+    width: 65%;
+    height: fixed;
+
+  }
+  .Ryzen
+  {
+    
+    margin-top: 10px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 13%;
+    margin-left:10px;
+    text-align: center;
+    font-family: arial;
+    padding: 5px;
+    height: 585px;
+    
+  }
+  .Ryzen button
+  {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    margin-top: 85px;
+
+  }
+  .Ryzen button :hover
+  {
+    opacity: 0.7;
+
+  }
+  .slika4
+  {
+    width: 100%;
+    height: fixed;
+
+
+  }
+  .laptop2
+  { margin-left: 5px;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 13%;
+    margin-left:10px;
+    text-align: center;
+    font-family: arial;
+    padding: 5px;
+    height: 585px;
+    margin-top: 10px;
+
+  }
+  .laptop2 button
+  {
+    margin-top: 78px;
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+
+  }
+  .laptop2 button :hover
+  {
+
+    opacity: 0.7;
+
+  }
+#forma
+{   margin-left: 95px;
+    background-color: grey;
+    float: left;
+    border: 5px solid black;
+    margin-top: 10px;
+    display: inline;
+    width: 18%;
+    height: 585px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 15px;
+}   
+.registracija
+{       
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+.ime
+{   
+    margin-top: 15px;
+    margin-left: 41px;
+}
+.Password
+{   
+    margin-top: 15px;
+    margin-right: 21px;
+}
+.email
+{   
+    margin-top: 15px;
+    margin-left: 29px;
+}
+.number
+{
+    margin-top: 15px;
+    margin-left: 22px;
+}
+.opcija1
+{
+    margin-top:10px;
+}
+
+.footer
+{
+
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        height: 60px;
+        width: 100%;
+        background-color:#212529;
+        color: white;
+        text-align: center;
+}
+.ime2
+{
+    float: left;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+.brojindeksa
+{
+
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+
+}
+.adresa
+{
+
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.brojtelefona
+{
+
+
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.mejl
+{
+    float: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+
+.dropbtn {
+    background-color:black;
+    color: white;
+    padding: 6px 20px;
+    font-size: 16px;
+    border: none;
+    margin: 5px;
+    
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color:black;}
+  <
